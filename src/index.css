@@ -1,0 +1,33 @@
+.center{
+    display: flex;
+    justify-content: center;
+}
+.footer {
+    margin-bottom: 0px;
+    /* position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center; */
+  }
+.bkg{
+    background: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+}
+body, .bk{
+    background: linear-gradient(to right, #fee192 0%, #d000ff 100%);
+}
+.yo{
+    margin-top: 0;
+
+}
+#yo{
+    margin-top: 0;
+
+}
+.pilo:hover {
+    color:whitesmoke;
+}
+#wd{
+    width: 100%;
+    height:100%;
+}
