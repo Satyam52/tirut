@@ -17,12 +17,12 @@ const TeamPage = () => {
             <MDBCol lg="3" md="6" className="mb-lg-0 mb-5">
               <img
                 tag="img"
-                src="https://mdbootstrap.com/img/Photos/Avatars/img%20(20).jpg"
+                src="https://scontent.fpat2-1.fna.fbcdn.net/v/t1.0-9/17990757_1113744185404020_1020808320496952382_n.jpg?_nc_cat=111&_nc_oc=AQkeFAwLJr4VEijLg2SHT_9H3tek19fxxS7tPs6WO5TYPH65KlDMUmLFJfmOteWvIoArdNBZash9y6_DAXFQQeto&_nc_ht=scontent.fpat2-1.fna&oh=c726f02bbe384f5e21c4d8615f63f38b&oe=5D856786"
                 className="rounded-circle z-depth-1 img-fluid"
                 alt="Sample avatar"
               />
-              <h5 className="font-weight-bold mt-4 mb-3">Anna Williams</h5>
-              <p className="text-uppercase blue-text">Graphic designer</p>
+              <h5 className="font-weight-bold mt-4 mb-3">Abhishek Kumar Gupta</h5>
+              <p className="text-uppercase blue-text">Web Developer</p>
               <p className="grey-text">
                 Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
                 consectetur, adipisci sed quia non numquam modi tempora eius.

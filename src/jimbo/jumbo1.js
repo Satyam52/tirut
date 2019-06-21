@@ -13,13 +13,13 @@ const JumbotronPage = () => {
               src="https://mdbootstrap.com/img/Photos/Slides/img%20(134).jpg"
             />
             <MDBCardBody>
-              <MDBCardTitle className="h3">Card title</MDBCardTitle>
+              <MDBCardTitle className="h3">Nature Beauty</MDBCardTitle>
               <MDBCardText>
                 Some quick example text to build on the card title and make up
                 the bulk of the card&apos;s content.
               </MDBCardText>
               <MDBBtn href="#" gradient="purple" rounded>
-                BUTTON
+                Read More
               </MDBBtn>
             </MDBCardBody>
           </MDBJumbotron>

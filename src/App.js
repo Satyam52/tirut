@@ -52,7 +52,7 @@ class App extends Component {
     return (
       <div>
       <Nav Route={this.onRouteChange}/>
-      <Brud route={this.state.route}/>
+      <Brud Route={this.onRouteChange} route={this.state.route}/>
       {this.state.route==="home"
       ?<div>
       <Colo/>

@@ -26,16 +26,16 @@ const Nav = ({Route})=>{
         <div className="collapse navbar-collapse " id="navbarSupportedContent" >
           <ul className="navbar-nav mr-auto">
             <li className="nav-item">
-            <div style={style} onClick={()=>Route('gallery')} className="nav-link pilo" id="h">Gallery</div>
+            <div style={style} onClick={()=>Route('gallery')} className="nav-link pilo" id="xd">Gallery</div>
             </li>
             <li className="nav-item">
-              <div style={style} onClick={()=>Route('event')} className="nav-link pilo" id="h">Events</div>
+              <div style={style} onClick={()=>Route('event')} className="nav-link pilo" id="xd">Events</div>
             </li>
             <li className="nav-item">
-              <div style={style} onClick={()=>Route('team')} className="nav-link pilo" id="h">Team</div>
+              <div style={style} onClick={()=>Route('team')} className="nav-link pilo" id="xd">Team</div>
             </li>
             <li className="nav-item">
-              <div style={style}  onClick={()=>Route('help')} className="nav-link pilo" id="h">Having Trouble?</div>
+              <div style={style}  onClick={()=>Route('help')} className="nav-link pilo" id="xd">Having Trouble?</div>
             </li>
           </ul>
           

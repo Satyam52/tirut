@@ -11,7 +11,7 @@ const FeaturesPage = () => {
       >
         <MDBCardBody style={{ paddingTop: 0 }}>
           <h2 className="h1-responsive font-weight-bold my-5 text-center">
-            Section title
+            Events and Programs
           </h2>
           <p className="dark-grey-text mx-auto mb-5 w-75 text-center">
             Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -36,16 +36,16 @@ const FeaturesPage = () => {
                   <a href="#!" className="deep-orange-text">
                     <h6 className="font-weight-bold">
                       <MDBIcon icon="utensils" className="pr-2" />
-                      Culinary
+                      Food Competition
                     </h6>
                   </a>
                   <p className="font-weight-bold dark-grey-text">
                     <MDBIcon far icon="clock" className="pr-2" />
-                    27/02/2018
+                    27/02/2020
                   </p>
                 </div>
                 <h3 className="font-weight-bold dark-grey-text mb-3 p-0">
-                  <a href="#!">Title of the news</a>
+                  <a href="#!">Food Wars</a>
                 </h3>
                 <p className="dark-grey-text mb-lg-0 mb-md-5 mb-4">
                   Sed ut perspiciatis unde voluptatem omnis iste natus error sit
@@ -201,9 +201,9 @@ const FeaturesPage = () => {
         </MDBCardBody>
       </MDBCard>
     <h2 className="h1-responsive font-weight-bold my-5">
-      Our best projects
+      Spotlights
     </h2>
-    <p className="grey-text w-responsive mx-auto mb-5">
+    <p className="white-text w-responsive mx-auto mb-5">
       Duis aute irure dolor in reprehenderit in voluptate velit esse
       cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
       cupidatat non proident, sunt in culpa qui officia deserunt mollit
@@ -223,7 +223,7 @@ const FeaturesPage = () => {
             <div>
               <h6 className="purple-text">
                 <MDBIcon icon="plane" />
-                <strong> Travel</strong>
+                <strong> Lagori</strong>
               </h6>
               <h3 className="py-3 font-weight-bold">
                 <strong>This is card title</strong>
@@ -235,7 +235,7 @@ const FeaturesPage = () => {
                 nulla ipsum dignissimos. Odit sed qui, dolorum!
               </p>
               <MDBBtn color="secondary" rounded size="md">
-                <MDBIcon far icon="clone" className="left" /> MDBView project
+                <MDBIcon far icon="clone" className="left" /> Read More
               </MDBBtn>
             </div>
           </div>
@@ -253,7 +253,7 @@ const FeaturesPage = () => {
             <div>
               <h6 className="pink-text">
                 <MDBIcon icon="chart-pie" />
-                <strong> Marketing</strong>
+                <strong> Team Events</strong>
               </h6>
               <h3 className="py-3 font-weight-bold">
                 <strong>This is card title</strong>
@@ -265,7 +265,7 @@ const FeaturesPage = () => {
                 nulla ipsum dignissimos. Odit sed qui, dolorum!
               </p>
               <MDBBtn color="pink" rounded size="md">
-                <MDBIcon far icon="clone" className="left" /> MDBView project
+                <MDBIcon far icon="clone" className="left" /> Read More
               </MDBBtn>
             </div>
           </div>
@@ -295,7 +295,7 @@ const FeaturesPage = () => {
                 nulla ipsum dignissimos. Odit sed qui, dolorum!
               </p>
               <MDBBtn color="success" rounded size="md">
-                <MDBIcon far icon="clone" className="left" /> MDBView project
+                <MDBIcon far icon="clone" className="left" /> Read More
               </MDBBtn>
             </div>
           </div>

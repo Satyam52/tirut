@@ -1,13 +1,14 @@
-.pilo:hover:before {
-    content:"Click Here To Go To ";
-
-} 
+#xd:hover{
+    color:red;
+    padding-left: 6px;
+}
 #or{
    font-size: 40px;
    color: rgb(255, 94, 0);
 }
 #h:hover{
     color:red;
+    
 }
 #qq{
     display: inline-flex;

@@ -1,6 +1,7 @@
 import React from "react";
 import { MDBCol, MDBContainer, MDBRow, MDBFooter,MDBIcon } from "mdbreact";
 import "../index.css";
+import './footer.css';
 
 const FooterPage = () => {
     const style = {
@@ -20,19 +21,19 @@ Tirutsava is a conflation between technology and culture. The name is derived fr
           <MDBCol md="3">
                <h5 className="title">   &nbsp; &nbsp; &nbsp; &nbsp;Follow Us</h5>
             <ul>
-              <li className="list-unstyled"> 
-              <div style={style}><a href="https://www.facebook.com/"> <MDBIcon fab icon="facebook-f" fixed /> Facebook</a>  </div>
+              <li  className="list-unstyled"> 
+              <div style={style}><a  id="xd" href="https://www.facebook.com/"> <MDBIcon fab icon="facebook-f" fixed /> Facebook</a>  </div>
               </li>
               <li className="list-unstyled">
-              <div style={style}><a href="https://twitter.com/?lang=en-in"> <MDBIcon fab icon="twitter" fixed /> Twitter</a>  </div>
+              <div style={style}><a id="xd" href="https://twitter.com/?lang=en-in"> <MDBIcon fab icon="twitter" fixed /> Twitter</a>  </div>
               </li>
               <li className="list-unstyled">
               
-        <div style={style}><a href="https://plus.google.com
+        <div style={style}><a id="xd" href="https://plus.google.com
 "> <MDBIcon gradient="purple" fab icon="google-plus-g" fixed/> Google+</a>   </div>
               </li>
               <li className="list-unstyled">
-              <div style={style}><a href="https://www.instagram.com"> <MDBIcon color="orange" fab icon="instagram" fixed/> Instagram</a>  </div>
+              <div style={style}><a id="xd" href="https://www.instagram.com"> <MDBIcon color="orange" fab icon="instagram" fixed/> Instagram</a>  </div>
               </li>
             </ul>
           </MDBCol>
